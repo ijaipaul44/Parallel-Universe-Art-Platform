@@ -7,3 +7,5 @@ Y
 )contracts/inter-universal-exhibition.clar,a/4/a46c9cdae4dc29cfaf6c5b65ddf81606f1175fe0
 X
 (tests/inter-universal-exhibition.test.ts,b/7/b7e292334bf1e7c84bbff7c65e8878546af3a0ba
+N
+contracts/quantum-art-nft.clar,8/2/82d9348e6f7467bae3c3d22959601ed4df08fa34
